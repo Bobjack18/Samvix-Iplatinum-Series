@@ -1,2 +1,3 @@
 # Samvix-Iplatinum-Series
 Hacking the Samvix Iplatinum Series
+Trying to hack iplatinum q4 q4 plus q5 and Q6 by extracting the rom...
